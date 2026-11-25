@@ -1,0 +1,4 @@
+-- Portfolio Laravel
+-- Project ini belum menggunakan database.
+-- File SQL disertakan untuk memenuhi kebutuhan submission.
+-- Tidak ada tabel yang diperlukan pada versi statis ini.

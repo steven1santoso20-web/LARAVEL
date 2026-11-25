@@ -1,0 +1,5 @@
+Repository GitHub:
+ISI DENGAN LINK REPOSITORY GITHUB KAMU SETELAH REPOSITORY DIBUAT.
+
+Contoh:
+https://github.com/username/portfolio-laravel
